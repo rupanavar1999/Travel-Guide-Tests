@@ -1,0 +1,18 @@
+.list-container {
+  background-color: #ffffff;
+  list-style: none;
+  text-decoration: none;
+  width: 72%;
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+}

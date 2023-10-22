@@ -1,0 +1,19 @@
+.home-container {
+  background-color: #eef4f7;
+  background-size: cover;
+  height: 100vh;
+  overflow: auto;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.outline-line {
+  width: 200px;
+  border-top-color: #52bbf0;
+  border-color: #52bbf0;
+}
+
+.heading {
+  text-align: center;
+  font-family: 'Roboto';
+}
